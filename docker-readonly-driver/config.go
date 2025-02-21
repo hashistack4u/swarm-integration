@@ -34,7 +34,7 @@ const (
 	ContainerNotRunningError = "is not running" // exact string is "Container %s is not running"
 
 	// pluginName is the name of the plugin
-	pluginName = "docker"
+	pluginName = "docker-readonly"
 
 	// fingerprintPeriod is the interval at which the driver will send fingerprint responses
 	fingerprintPeriod = 30 * time.Second
