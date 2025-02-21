@@ -15,7 +15,7 @@ import (
 	"github.com/hashicorp/nomad/client/lib/cpustats"
 	cstructs "github.com/hashicorp/nomad/client/structs"
 	"github.com/hashicorp/nomad/client/testutil"
-	"github.com/hashicorp/nomad/drivers/docker/util"
+	"github.com/hashistack4u/docker-readonly-driver/util"
 	"github.com/shoenig/test/must"
 )
 
